@@ -1,2 +1,2 @@
 # SystemVerilog
-This a repositry of al my system verilog basic (academic) projects..!!
+This a repositry of all my system verilog basic (academic) projects..!!
